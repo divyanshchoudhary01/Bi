@@ -1,0 +1,4 @@
+if data doesn't exist then data needs to be created 
+with unqiue id and linkedPreference as primary
+and treat it as new customer and return the saved data
+with empty array for secondaryContactIds
